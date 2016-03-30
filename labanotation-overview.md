@@ -3,8 +3,11 @@
 
 
 ### Staff
+* Used to represent which part of the body (left, right, or middle)
+* Where transference of weight and gesture initiation is indicated
 
 ### Time, direction signs, position signs
+* 
 
 ### Arm and leg gestures
 
