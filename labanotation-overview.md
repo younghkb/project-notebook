@@ -1,19 +1,19 @@
-# Notes from "Introduction to Labanotation" 
+## Notes from "Introduction to Labanotation" 
 (http://user.uni-frankfurt.de/~griesbec/LABANE.HTML)
 
 
-## Staff
+### Staff
 
-## Time, direction signs, position signs
+### Time, direction signs, position signs
 
-## Arm and leg gestures
+### Arm and leg gestures
 
-## Center of weight and transference of weight
+### Center of weight and transference of weight
 
-## Body parts
+### Body parts
 
-## Quantity signs
+### Quantity signs
 
-## Bows
+### Bows
 
-## Paths, floor plans
+### Paths, floor plans
