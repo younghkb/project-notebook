@@ -12,12 +12,11 @@ design, implementation, or evaluation as a result?
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+March 30, 2015 - 1.25 hrs (in class work session):
+
+I started collecting resources about labanotation to get a better sense of the domain. This website has a really useful overview:
+http://user.uni-frankfurt.de/~griesbec/LABANE.HTML . If you're trying to get a sense of what labanoation can do, I would recommend
+giving this a quick skim. There's also a book at the library that looks useful: Labanotation: The System of Analyzing and Recording Movement By Ann Hutchinson. I'll try to pick it up today on my way to Modern. I also started making a note page regarding key concepts in Labanotation that I could work with.
 
 ## Questions
 
