@@ -4,6 +4,7 @@
 * This book is less about the specific notation and more about the uses of Laban to understand how we move
 * Think it's useful from a understanding the use cases point of view--what efforts and directions people are likely to combine, etc.
 * This book actually does a really good job of covering the concepts without getting lost in details
+* I could definitely go in a lot deeper on effort than I'm currently going
 
 ### Core ideas
 * Kinesphere - personal bubble around a person extending as far as they can reach in any direction 
@@ -14,17 +15,24 @@
     * Wheel Plane - Forward to back dimension, aka the sagital plane
     * Table Plan - Right to left dimension, aka the horizontal plane
 * Space - can interact with space by either gathering (bringing into ourselves) or scattering (throwing away from ourselves)
-* Time - duh
+    * Two elements: direct and indirect
+* Time - duh   
+    * Two elements: sudden and sustained
 * Weight - light to strong, the balancing of tension in the body
+    * Two elements: strong and light
 * Flow - free flow to bound blow, is the movement constricted or allowed to breathe
+* Effort graph - relates weight, flow, time, and space
+* Grades of intensity - weight, flow, time, space can be graded as normal, or more less intense than normal
 
-### The Eight Basic Efforts
-* Pressing
-* Flicking
-* Wringing
-* Dabbing
-* Slashing
-* Gliding
-* Thursting
-* Floating
+### The Eight Basic Efforts & Affinities (relates space, time, and weight)
+* Pressing - Direct, sustained, strong (left deep back)
+* Flicking - Indirect, sudden, light (right high back)
+* Wringing - Indirect, sustained, strong (right deep front)
+* Dabbing - Direct, sudden, light (left high back)
+* Slashing - Sudden, strong, indirect (right deep back)
+* Gliding - Sustained, light, direct (left high front)
+* Thrusting - Direct, sudden, strong (left deep front)
+* Floating - Indirect, sustained, light (right high front)
+
+
 
