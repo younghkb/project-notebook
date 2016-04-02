@@ -34,5 +34,12 @@
 * Thrusting - Direct, sudden, strong (left deep front)
 * Floating - Indirect, sustained, light (right high front)
 
+### The Four Drives
+* How we display inner attitude
+* Action - Awake mode, near mode, or stable mode (space time and weight)
+* Vision - Awake mode, remote mode, mobile mode (space time and flow)
+* Spell - Dream mode, remote mode, stable mode (space weight and flow)
+* Passion - Dream mode, near mode, mobile mode (time weight and flow)
+
 
 
