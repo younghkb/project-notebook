@@ -18,8 +18,11 @@ I started collecting resources about labanotation to get a better sense of the d
 http://user.uni-frankfurt.de/~griesbec/LABANE.HTML . If you're trying to get a sense of what labanoation can do, I would recommend
 giving this a quick skim. There's also a book at the library that looks useful: _Labanotation: The System of Analyzing and Recording Movement_ By Ann Hutchinson. I'll try to pick it up today on my way to Modern. I also made a note page regarding key concepts in Labanotation that I could work with. Also, wow is the guy who wrote the Labanotation introduction salty: "The language of the human body is complex and it will not be possible to do a satisfying simulation of it using computers before computer scientists give up their rough simplifications in simulation and notation of movement and use the experiences collected in the last seventy years (and the centurys before) in dance notation and make them their own." I started on the design_and_implementation document.
 
-April 2, 2015 - 1.25 hrs
-I took notes on _Laban for All_, which can be found in a file of that name in this repository. It was actually really good for covering a lot of the typical uses of Laban's work (the effort affinities, drives, etc), which I thought would be useful to review to understand typical use cases of the language. 
+April 2, 2015 - 2 hrs
+I took notes on _Laban for All_, which can be found in a file of that name in this repository. It was actually really good for covering a lot of the typical uses of Laban's work (the effort affinities, drives, etc), which I thought would be useful to review to understand typical use cases of the language. I also took notes on another book, which were then promptly deleted by my terrible internet connection, but at least I read the material.
+
+April 4, 2015 - 
+I decided on how I was going to model the movement and language (python and vpython!). If I have time, I'd like to prototype or demo at least what a nice animation of human movement could look like. I also finished up the documentation that was supposed to be done last night.
 
 ## Questions
 
