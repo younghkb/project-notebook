@@ -29,16 +29,33 @@ exciting milestones, preliminary results, etc. Feel free to include images
 code, and any other resources that you think will help clearly convey your
 design process.
 
+April 6, 2016 - 0h30
+
+In class work-session.
+
+April 11, 2016 - 1h30
+
+While this is obviously after the due date, I wanted to put in a little bit of work 
+to tidy things up and such so that I could cleanly start my work for next week.
+Went ahead and dealt with downloading VPython and some other set up type work.
+
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+The most pressing issue for my project is catching up. I need to make my 
+prototype. This week I'll work on getting back on track and getting 
+refreshed on what I need to get done.
+
 **What questions do you have for your critique partners? How can they best help
 you?**
+
+
+
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
-
+2h00
