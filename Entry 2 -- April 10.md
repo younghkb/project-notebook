@@ -2,13 +2,23 @@
 
 ## Last week's critique
 
-**TODO:** Fill in this part with a summary and reflection on the critque you
+**TODO:** Fill in this part with a summary and reflection on the critique you
 received for last week's work. Answer questions such as:  How, specifically, did
 the feedback help improve the project? Did the feedback point out or offer
 something you hadn't considered? Did it help you make a design decision? Was it 
 helpful in addressing the most pressing issues in your project? How will you
 incorporate the feedback into your work? Will you change something about the 
 design, implementation, or evaluation as a result?
+
+I think that Josh made a good point about developing the two sides of the gui 
+simultaneously is important. I don't wanna just do one and then get to the other 
+and realize I forgot some hugely important feature. Developing them side-by-side
+should help decrease this risk. He also brought up some questions about the
+timing aspect of this, which to be honest I don't have ay idea how to address. 
+He also mentioned prioritizing ease of use and extensibility, which I totally
+agree with. I think keeping in mind what keeps my language different from
+labanotation is a good way to evaluate what my progress has been in developing
+a language.
 
 ## Description
 
