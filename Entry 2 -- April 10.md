@@ -52,7 +52,9 @@ refreshed on what I need to get done.
 **What questions do you have for your critique partners? How can they best help
 you?**
 
-
+If anyone has advice on working with vpython I'm all ears--haven't touched it since
+CS5. I'm also interested if anyone knows of particular lirbaries that make gui
+development in python easier.
 
 
 **How much time did you spend on the project this week? If you're working in a
