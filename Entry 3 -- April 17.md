@@ -10,6 +10,14 @@ helpful in addressing the most pressing issues in your project? How will you
 incorporate the feedback into your work? Will you change something about the 
 design, implementation, or evaluation as a result?
 
+In the last critique, Amit focused on the types of things that would be useful 
+to be able to do as a user. He focused on two of the key design things
+that I've been thinking through, which is precedence and the definition of neutrality.
+I agree that these are pretty important issues to work through. However, I didn't 
+address them as much this week because I wanted to get more into the coding details
+and focus less on the design aspect. For next week's work, I'll make this more of 
+a priority again.
+
 ## Description
 
 **TODO:** Fill in this part with information about your work this week:
@@ -18,6 +26,8 @@ exciting milestones, preliminary results, etc. Feel free to include images
 (e.g., a sketch of the design or a screenshot of a running program), links to
 code, and any other resources that you think will help clearly convey your
 design process.
+
+
 
 ## Questions
 
