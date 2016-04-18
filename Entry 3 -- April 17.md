@@ -27,6 +27,17 @@ exciting milestones, preliminary results, etc. Feel free to include images
 code, and any other resources that you think will help clearly convey your
 design process.
 
+This week, I went more into the technical details. I decided to switch the language
+in which I'm working, from python and vpython to js, html, and a js 3d framework 
+called three. I decided to make this shift because I did not like the gui options
+available with python. For the level I want to customize things, it did not look
+like there was a fast way to do so in Python. However, I've done web dev before and
+I know I can whip up a decent interface pretty quickly in that set up. Also, I was able
+to find good humanoid examples in three, which makes it more accessible. 
+
+I did not put as much time into the design of the language itself, because of trying to get going 
+on the prototyping-type work. Next week will be about pulling those two pieces back together.
+
 
 
 ## Questions
