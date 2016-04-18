@@ -46,10 +46,18 @@ on the prototyping-type work. Next week will be about pulling those two pieces b
 you need to make, what implementation issue are you trying to solve, or how
 are you evaluating your design and implementation?**
 
+I need to pull together a full prototype. I have the beginnings of one on my
+computer right now, but it doesn't have nearly enough detail to be worth anything.
+This is the top priority.
+
 **What questions do you have for your critique partners? How can they best help
 you?**
 
+Giving it a go once I have the basics put together would be helpful.
+
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
+
+~7
 
 
